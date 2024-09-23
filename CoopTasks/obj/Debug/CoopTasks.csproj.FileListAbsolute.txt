@@ -1,0 +1,14 @@
+C:\Users\luank\source\repos\CoopTasks\CoopTasks\obj\Debug\CoopTasks.csproj.AssemblyReference.cache
+C:\Users\luank\source\repos\CoopTasks\CoopTasks\obj\Debug\CoopTasks.csproj.CoreCompileInputs.cache
+C:\Users\luank\source\repos\CoopTasks\CoopTasks\bin\Debug\CoopTasks.exe.config
+C:\Users\luank\source\repos\CoopTasks\CoopTasks\bin\Debug\CoopTasks.exe
+C:\Users\luank\source\repos\CoopTasks\CoopTasks\bin\Debug\CoopTasks.pdb
+C:\Users\luank\source\repos\CoopTasks\CoopTasks\obj\Debug\CoopTasks.exe
+C:\Users\luank\source\repos\CoopTasks\CoopTasks\obj\Debug\CoopTasks.pdb
+C:\Users\luank\Documents\GitHub\Coop-Tasks\CoopTasks\bin\Debug\CoopTasks.exe.config
+C:\Users\luank\Documents\GitHub\Coop-Tasks\CoopTasks\bin\Debug\CoopTasks.exe
+C:\Users\luank\Documents\GitHub\Coop-Tasks\CoopTasks\bin\Debug\CoopTasks.pdb
+C:\Users\luank\Documents\GitHub\Coop-Tasks\CoopTasks\obj\Debug\CoopTasks.csproj.AssemblyReference.cache
+C:\Users\luank\Documents\GitHub\Coop-Tasks\CoopTasks\obj\Debug\CoopTasks.csproj.CoreCompileInputs.cache
+C:\Users\luank\Documents\GitHub\Coop-Tasks\CoopTasks\obj\Debug\CoopTasks.exe
+C:\Users\luank\Documents\GitHub\Coop-Tasks\CoopTasks\obj\Debug\CoopTasks.pdb
